@@ -3,8 +3,8 @@ A complete React frontend integrated with an external authentication API.
 The app supports user registration, login, forgot password (OTP + reset), secure token handling, and a welcome page displaying decoded user information.
 
 Live Demo:
-Vercel Deployment: auth-api-integration-chi.vercel.app
-GitHub Repository: https://github.com/Anas277-dev/Auth-Api-Integration
+Vercel Deployment: auth-api-integration-2.vercel.app
+GitHub Repository: https://github.com/Anas277-dev/Auth-Api-Integration-2
 
 Features:
 Register new users (/auth/newuser).
